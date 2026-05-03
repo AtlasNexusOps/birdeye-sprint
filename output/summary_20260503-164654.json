@@ -1,0 +1,19 @@
+{
+  "run_id": "20260503-164654",
+  "timestamp": "2026-05-03T16:46:54.521576",
+  "total_tokens": 100,
+  "total_market_cap_usd": 2631841616639,
+  "total_24h_volume_usd": 75062204330.97,
+  "volatility_breakdown": {
+    "HIGH": 0,
+    "MEDIUM": 3,
+    "LOW": 97
+  },
+  "mcap_tier_breakdown": {
+    "LARGE_CAP": 12,
+    "MID_CAP": 55,
+    "SMALL_CAP": 33,
+    "MICRO_CAP": 0
+  },
+  "avg_volume_mcap_ratio": 0.0327
+}
