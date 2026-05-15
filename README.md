@@ -1,5 +1,7 @@
 # BDS Pipeline — Birdeye Data Sprint 3
 
+> **Archived / superseded:** this Sprint 3 repository is kept as historical bounty evidence. The maintained successor is [`AtlasNexusOps/birdeye-sprint4`](https://github.com/AtlasNexusOps/birdeye-sprint4), with a live dashboard at https://atlasnexusops.github.io/birdeye-sprint4/.
+
 **Multi-source crypto data pipeline with automated cleaning, validation, enrichment & export.**
 
 Built for the Birdeye Data BIP Sprint 3 competition. 500 USDC bounty.
